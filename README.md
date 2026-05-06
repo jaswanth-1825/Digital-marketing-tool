@@ -10,8 +10,7 @@ Digital Marketing Funnel Management System using Binary Search Tree (BST)
 
 ## 👥 🤝 Team Members  
 - 👤 Jashu  
-- 👤 Abhiram 
-- 👤 __________  
+- 👤 Abhiram   
 
 ---
 
