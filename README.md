@@ -1,5 +1,5 @@
 # 📘 README
-## 🌐 Digital Marketing Funnel Management System using BST
+## 🌐 Digital Marketing Funnel Management System using Binary Search Tree
 
 ---
 
